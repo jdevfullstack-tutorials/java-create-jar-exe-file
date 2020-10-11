@@ -1,5 +1,5 @@
 # Java Create JAR Exe Tutorial
-## Setting the Windows System Environment
+## Setting The Windows System Environment
 1. Without the compiler added to the `Path`, you cannot use
    Java in the Command Prompt.
 
@@ -46,7 +46,7 @@
    if the Command Prompt gives you information,
    then it is successfully added.
 
-## Compiling & Running the Java Source Code through the Command Prompt
+## Compiling & Running The Java Source Code Through The Command Prompt
 1. Change the directory to where you put your source code.
 
 2. But it is better you put your code on the Desktop directory.
@@ -82,7 +82,7 @@
 8. Now, you have the class file and the java file. It is ready
    for creating the Executable JAr File.
 
-## Creating the Executable JAR file
+## Creating The Executable JAR File
 Remember that Java is a high-level 
  programming language
  and the creators of this language put some 
